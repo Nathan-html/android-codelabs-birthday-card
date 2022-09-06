@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Nathan Flacher - Kotlin</string>
-    <string name="title">Suivez ma progression dans l\'\apprentissage de Kotlin, le langage de promotion recommandé par Android pour créer des applications Android 😁</string>
     <string name="footer">Crée avec ❤ par nathan html</string>
-    <string name="beginning_img_desc">Suivez mon apprentissage de Kotlin</string>
+    <string name="btn_next">Suivant</string>
+    <string name="img_beginning_desc">Suivez mon apprentissage de Kotlin</string>
+    <string name="title_home">Suivez ma progression dans l\'\apprentissage de Kotlin, le langage de programmation recommandé par Android pour créer des applications Android 😁</string>
+    <string name="title_dice_roller">Lancer de dé 🎲</string>
 </resources>
