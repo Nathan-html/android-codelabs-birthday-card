@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Birthday Card</string>
+    <string name="app_name">Nathan Flacher - Kotlin</string>
+    <string name="title">Suivez ma progression dans l\'\apprentissage de Kotlin, le langage de promotion recommandé par Android pour créer des applications Android 😁</string>
+    <string name="footer">Crée avec ❤ par nathan html</string>
+    <string name="beginning_img_desc">Suivez mon apprentissage de Kotlin</string>
 </resources>
